@@ -1,0 +1,6 @@
+plaintext
+Copy code
+flask
+openai
+python-dotenv
+requests
